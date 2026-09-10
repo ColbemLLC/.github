@@ -2,7 +2,7 @@
   <img src="https://github.com/ColbemLLC.png" width="96" alt="Colbe logo" />
 </p>
 
-<h1 align="center">ColbemLLC</h1>
+<h1 align="center">Colbem Engine</h1>
 
 ### What is Colbe?
 
